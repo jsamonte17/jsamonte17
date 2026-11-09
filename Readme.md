@@ -14,9 +14,19 @@
 
 ---
 
+### 🌟 Featured Projects
+
+- **[AI-powered virtual support agent](https://github.com/jsamonte17/ai-services)** — An AI chat representative that answers customer inquiries about the company.
+- **[Self-hosted AI narration tool](https://github.com/jsamonte17/narrations)** — A locally hosted AI tool that turns my short stories into narrated audio, with optional sound effects and video animation.
+- **[Self-hosted AI chat assistant](https://github.com/jsamonte17/vibe-ai)** — Built for company employees to answer questions about internal systems and employee-related information, including payslip deductions, attendance, and department assignments.
+
 ### 🚀 Active Projects & R&D
 
 - **Local AI Orchestration Pipelines:** Building local multi-model AI workflows for automated text-to-narration, voice synthesis, and video processing wrapped in custom Docker Compose infrastructure.
 - **Full-Stack Enterprise Systems:** Spearheaded software architecture and end-to-end production deployment for multiple government and educational platforms (such as CWC, DepEd DART, NCCA, and VSMART IMS).
 
 ---
+
+### 🤝 Connect
+
+[LinkedIn](www.linkedin.com/in/joseph-samonte-35a17182) · [Email](mailto:joseph.samonte17@gmail.com)
