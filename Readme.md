@@ -6,8 +6,8 @@
 
 ### 💻 Tech Stack & Expertise
 
-- **Languages & Core:** TypeScript, JavaScript, Python, PHP
-- **Backend & Frameworks:** Node.js, Express, NestJS, React, Next.js, CodeIgniter
+- **Languages & Core:** TypeScript, JavaScript, PHP, can easily adopt to new languages
+- **Backend & Frameworks:** Node.js, Express, NestJS, React, Next.js
 - **Databases & Architecture:** PostgreSQL, MySQL, REST APIs, Microservices, Object-Oriented Programming (OOP)
 - **DevOps, Cloud & Infrastructure:** Docker, Docker Compose, Kubernetes, Nginx, GCP, Azure DevOps
 - **AI & Machine Learning:** PyTorch, Hugging Face (Transformers, Diffusers), Local LLM/Diffusion Model Deployment
